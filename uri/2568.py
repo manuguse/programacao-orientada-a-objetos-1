@@ -1,4 +1,4 @@
-# 2568
+# exercício 2568
 
 D = int(input('dia inicial '))
 I = float(input('valor inicial ')) 
